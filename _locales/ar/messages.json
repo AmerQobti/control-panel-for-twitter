@@ -1,1 +1,262 @@
+{
+  "addAddMutedWordMenuItemLabel_desktop": {
+    "message": "أضف \"إضافة كلمة مكتومة\" إلى قائمة \"المزيد\""
+  },
+  "addAddMutedWordMenuItemLabel_mobile": {
+    "message": "أضف \"إضافة كلمة مكتومة\" إلى القائمة الجانبية"
+  },
+  "alwaysUseLatestTweetsLabel": {
+    "message": "استخدم الخط الزمني \"المتابَعون\" (حسب التسلسل الزمني) افتراضيًا"
+  },
+  "appStoreSubtitle": {
+    "message": "تحكم في خطك الزمني",
+    "description": "<= 30 حرفًا"
+  },
+  "debugCountdownLabel": {
+    "message": " (خيارات التصحيح: اضغط $DEBUG_COUNTDOWN$ مرات إضافية لتفعيل)",
+    "description": "يُعرض عند الضغط عدة مرات على نص المعلومات في نهاية قسم التجارب لتفعيل وضع التصحيح",
+    "placeholders": {
+      "debug_countdown": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "debugInfo": {
+    "message": "يُمكِّن تسجيل التصحيح ويعرض معلومات التغريدة في الخط الزمني"
+  },
+  "debugLabel": {
+    "message": "وضع التصحيح"
+  },
+  "debugOptionsLabel": {
+    "message": "خيارات التصحيح"
+  },
+  "defaultToLatestSearchLabel": {
+    "message": "التعيين افتراضيًا لعلامة تبويب \"الأحدث\" في خانة البحث"
+  },
+  "disableHomeTimelineInfo": {
+    "message": "هل تجد تشعر بأنك تُضّيع وقتًا طويلًا على تويتر؟ جرّب تعطل الخط الزمني الرئيسي"
+  },
+  "disableHomeTimelineLabel": {
+    "message": "تعطيل الخط الزمني الرئيسي"
+  },
+  "disableTweetTextFormattingLabel": {
+    "message": "تعطيل النص الغامق والمائل في التغريدات"
+  },
+  "disabledHomeTimelineRedirectLabel": {
+    "message": "إعادة توجيه الخط الزمني الرئيسي إلى"
+  },
+  "disabledHomeTimelineRedirectOption_messages": {
+    "message": "الرسائل"
+  },
+  "disabledHomeTimelineRedirectOption_notifications": {
+    "message": "الإشعارات"
+  },
+  "dontUseChirpFontLabel": {
+    "message": "لا تستخدم خط Chirp"
+  },
+  "dropdownMenuFontWeightLabel": {
+    "message": "استخدام وزن خط عادي في القوائم المنسدلة"
+  },
+  "experimentalNote": {
+    "message": "لا توجد تجارب في هذا الإصدار"
+  },
+  "experimentsOptionsLabel": {
+    "message": "التجارب"
+  },
+  "exportConfigLabel": {
+    "message": "تصدير الإعدادات لتقرير الأخطاء"
+  },
+  "extensionDescription": {
+    "message": "يعطيك تحكم أكبر في تويتر ويضيف الميزات المفقودة وتحسينات في الواجهة",
+    "description": "<= 132 حرفًا"
+  },
+  "extensionDescriptionShort": {
+    "message": "تحكم أكبر في تويتر مع ميزات مفقودة وتحسينات",
+    "description": "<= 112 حرفًا"
+  },
+  "extensionName": {
+    "message": "Control Panel for Twitter"
+  },
+  "fastBlockLabel": {
+    "message": "حظر سريع (يتجاوز مربع التأكيد)"
+  },
+  "features": {
+    "message": "الميزات"
+  },
+  "followButtonStyleLabel": {
+    "message": "نمط الزر"
+  },
+  "followButtonStyleOption_monochrome": {
+    "message": "أحادي اللون"
+  },
+  "followButtonStyleOption_themed": {
+    "message": "بالمظهر"
+  },
+  "fullWidthContentInfo": {
+    "message": "إخفاء الشريط الجانبي وجعل المحتوى بنمط العرض كامل"
+  },
+  "fullWidthContentLabel": {
+    "message": "عرض كامل لمحتوى الخط الزمني"
+  },
+  "fullWidthMediaLabel": {
+    "message": "عرض كامل للوسائط والبطاقات"
+  },
+  "hideAccountSwitcherLabel": {
+    "message": "مُبدّل الحسابات"
+  },
+  "hideAdsNavLabel": {
+    "message": "الإعلانات"
+  },
+  "hideAllMetricsLabel": {
+    "message": "إخفاء الكل"
+  },
+  "hideBlueReplyFollowedByLabel": {
+    "message": "إخفاء الأشخاص الذين يتابعونني"
+  },
+  "hideBlueReplyFollowingLabel": {
+    "message": "إخفاء الأشخاص الذين أتابعهم"
+  },
+  "hideBookmarkButtonLabel": {
+    "message": "زر الإشارات المرجعية تحت التغريدات"
+  },
+  "hideBookmarkMetricsLabel": {
+    "message": "الإشارات المرجعية"
+  },
+  "hideBookmarksNavLabel": {
+    "message": "الإشارات المرجعية"
+  },
+  "hideCommunitiesNavLabel": {
+    "message": "المجتمعات"
+  },
+  "hideExploreNavLabel": {
+    "message": "استكشاف"
+  },
+  "hideExploreNavWithSidebarLabel": {
+    "message": "الإظهار عند إخفاء الشريط الجانبي"
+  },
+  "hideExplorePageContentsLabel": {
+    "message": "إخفاء محتويات صفحة الاستكشاف واستخدامها فقط للبحث"
+  },
+  "hideFollowingMetricsLabel": {
+    "message": "المتابَعون / المتابعون"
+  },
+  "hideForYouTimelineLabel": {
+    "message": "إخفاء الخط الزمني \"لك\""
+  },
+  "hideGrok": {
+    "message": "إخفاء Grok"
+  },
+  "hideGrokLabel": {
+    "message": "إخفاء Grok"
+  },
+  "hideInlinePrompts": {
+    "message": "إخفاء التعليمات المُضمنة في الخط الزمني"
+  },
+  "hideJobsLabel": {
+    "message": "إخفاء الوظائف"
+  },
+  "hideLikeMetricsLabel": {
+    "message": "الإعجابات"
+  },
+  "hideListsNavLabel": {
+    "message": "القوائم"
+  },
+  "hideMessagesBottomNavItemLabel": {
+    "message": "الرسائل"
+  },
+  "hideMessagesDrawerLabel": {
+    "message": "قسم الرسائل"
+  },
+  "hideMetricsLabel": {
+    "message": "إخفاء الإحصاءات"
+  },
+  "hideMonetizationNavLabel": {
+    "message": "الأرباح"
+  },
+  "hideMoreSlideOutMenuItemsOptionsLabel_desktop": {
+    "message": "إخفاء عناصر قائمة \"المزيد\" التي لا تستخدمها"
+  },
+  "hideMoreSlideOutMenuItemsOptionsLabel_mobile": {
+    "message": "إخفاء عناصر قائمة التمرير التي لا تستخدمها"
+  },
+  "hideMoreTweetsLabel": {
+    "message": "إخفاء تغريدات \"استكشاف المزيد\""
+  },
+  "hideProNavLabel": {
+    "message": "Pro"
+  },
+  "hideProfileRetweetsLabel": {
+    "message": "إخفاء إعادة التغريد في الملفات الشخصية"
+  },
+  "hideQuoteTweetMetricsLabel": {
+    "message": "اقتباسات التغريدات"
+  },
+  "hideQuotesFromLabel": {
+    "message": "المستخدمون المكتومون ($COUNT$)",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "1"
+      }
+    }
+  },
+  "hideReplyMetricsLabel": {
+    "message": "الردود"
+  },
+  "hideRetweetMetricsLabel": {
+    "message": "إعادة التغريد"
+  },
+  "hideSeeNewTweetsLabel": {
+    "message": "إخفاء \"رؤية التغريدات الجديدة\""
+  },
+  "hideShareTweetButtonLabel": {
+    "message": "زر المشاركة تحت التغريدات"
+  },
+  "hideSidebarContentLabel": {
+    "message": "إخفاء محتويات الشريط الجانبي"
+  },
+  "hideSpacesNavLabel": {
+    "message": "إنشاء مساحتك"
+  },
+  "hideSubscriptionsLabel": {
+    "message": "إخفاء الاشتراكات"
+  },
+  "hideTimelineTweetBoxLabel": {
+    "message": "خانة كتابة التغريدة في الخط الزمني"
+  },
+  "hideTotalTweetsMetricsLabel": {
+    "message": "إجمالي التغريدات"
+  },
+  "hideTweetAnalyticsLinksLabel": {
+    "message": "\"عرض تفاعلات التغريدة\" تحت تغريداتك"
+  },
+  "hideTwitterBlueRepliesLabel": {
+    "message": "إخفاء الردود من الحساسبات بعلامة التحقق الزرقاء"
+  },
+  "hideTwitterBlueUpsellsLabel": {
+    "message": "إخفاء العروض الترويجية من حسابات الـ Premium الزرقاء"
+  },
+  "hideUnavailableQuoteTweetsLabel": {
+    "message": "إخفاء الاقتباسات والردود من الحسابات المحظورة والمكتومة"
+  },
+  "hideUnusedUiItemsOptionsLabel": {
+    "message": "إخفاء عناصر الواجهة غير المستخدمة"
+  },
+  "hideVerifiedNotificationsTabLabel": {
+    "message": "إخفاء تبويبات الإشعارات والمتابعين الموثقين"
+  },
+  "hideViewsLabel": {
+    "message": "إخفاء المشاهدات تحت التغريدات"
+  },
+  "hideWhoToFollowEtcLabel": {
+    "message": "إخفاء \"من يجب متابعته\" و\"تابع بعض المواضيع\""
+  },
+  "homeTimelineOptionsLabel": {
+    "message": "الخط الزمني الرئيسي"
+  },
+  "listRetweetsLabel": {
+    "message": "إعادة التغريد في القوائم"
+  }
+}
 
